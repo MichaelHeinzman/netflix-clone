@@ -1,19 +1,5 @@
-# Next.js + Tailwind CSS Example
+# Netflix Clone
+React web application using Next.js and Tailwind. 
 
-Tailwind CSS is integrated into the `create-next-app` CLI, which supports TypeScript and JavaScript, as well as the App Router (`app/`) and the pages directory `pages/`.
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
-
-```bash
-npx create-next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --tailwind with-tailwindcss-app
-```
+# [Preview](https://netflix-clone-gilt-nu.vercel.app/)
