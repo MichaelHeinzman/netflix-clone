@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone (Unfinished)
 React web application using Next.js and Tailwind. 
 
 
