@@ -3,10 +3,11 @@ import React from "react";
 import { Movie } from "../../typings";
 import { modalState, movieState } from "@/atoms/modalAtom";
 import { useRecoilState } from "recoil";
+import { DocumentData } from "firebase/firestore";
 
 type Props = {
   //   movie: Movie | DocumentData;
-  movie: Movie;
+  movie: Movie | DocumentData;
 };
 
 const Thumbnail = ({ movie }: Props) => {
